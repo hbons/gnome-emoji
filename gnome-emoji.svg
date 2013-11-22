@@ -20078,37 +20078,6 @@
          y="196" />
     </clipPath>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7797"
-       id="linearGradient7803"
-       x1="227"
-       y1="192"
-       x2="228"
-       y2="208"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient7797">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop7799" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop7801" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6936-3"
-       id="linearGradient7779"
-       x1="227"
-       y1="195.00032"
-       x2="227"
-       y2="203.00032"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,2.9996744)" />
-    <linearGradient
        id="linearGradient6936-3">
       <stop
          style="stop-color:#7d6c57;stop-opacity:1;"
@@ -20119,64 +20088,6 @@
          offset="1"
          id="stop6940-6" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5629-3"
-       id="radialGradient7791"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.3363229,0,122.92545)"
-       cx="314.03125"
-       cy="185.21875"
-       fx="314.03125"
-       fy="185.21875"
-       r="6.96875" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient5629-3">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop5631-0" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop5633-3" />
-    </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter5677-1"
-       x="-0.094328672"
-       width="1.1886573"
-       y="-0.28047058"
-       height="1.5609412">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.54779412"
-         id="feGaussianBlur5679-4" />
-    </filter>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient5629-3"
-       id="radialGradient7793"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,0.3363229,0,122.92545)"
-       cx="314.03125"
-       cy="185.21875"
-       fx="314.03125"
-       fy="185.21875"
-       r="6.96875" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient7083-6"
-       id="radialGradient7787"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0237566,7.1223769e-7,-8.5484532e-7,1.228738,-94.451177,-8.2567133)"
-       cx="314.96875"
-       cy="174.44357"
-       fx="314.96875"
-       fy="174.44357"
-       r="9.03125" />
     <linearGradient
        id="linearGradient7083-6">
       <stop
@@ -20192,49 +20103,6 @@
          offset="1"
          id="stop7089-3" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient8679-5"
-       id="linearGradient7785"
-       gradientUnits="userSpaceOnUse"
-       x1="311.25781"
-       y1="171.42343"
-       x2="314.96875"
-       y2="185.47771" />
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient8679-5">
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="0"
-         id="stop8681-2" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
-         offset="1"
-         id="stop8683-8" />
-    </linearGradient>
-    <filter
-       color-interpolation-filters="sRGB"
-       inkscape:collect="always"
-       id="filter5832-9"
-       x="-0.43764707"
-       width="1.8752941"
-       y="-0.43764707"
-       height="1.8752941">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.79779412"
-         id="feGaussianBlur5834-8" />
-    </filter>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6936-3"
-       id="linearGradient7783"
-       gradientUnits="userSpaceOnUse"
-       x1="311.25781"
-       y1="171.42343"
-       x2="314.96875"
-       y2="185.47771" />
     <linearGradient
        id="linearGradient44376">
       <stop
@@ -20718,7 +20586,7 @@
      inkscape:cx="665.07093"
      inkscape:cy="325.13462"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer86"
      showgrid="false"
      inkscape:grid-points="true"
      fill="#2e3436"
@@ -20760,45 +20628,6 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Background"
-     style="display:inline" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="Rectangles"
-     transform="translate(4.1015625e-6,1.5625001e-6)"
-     style="opacity:0.03921569;display:inline">
-    <rect
-       y="179.55806"
-       x="321"
-       height="24"
-       width="24"
-       id="rect54448"
-       style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <g
-       id="g19569">
-      <rect
-         y="579.55804"
-         x="281"
-         height="24"
-         width="24"
-         id="rect54651"
-         style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    </g>
-    <g
-       id="g19720">
-      <rect
-         style="color:#000000;fill:#eeeeec;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-         id="rect54787"
-         width="24"
-         height="24"
-         x="950"
-         y="219.55806" />
-    </g>
-  </g>
   <g
      inkscape:label="Artwork"
      inkscape:groupmode="layer"
