@@ -28785,9 +28785,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="415.13666"
-     inkscape:cy="-122.74775"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="517.34461"
+     inkscape:cy="-122.21462"
      inkscape:document-units="px"
      inkscape:current-layer="layer86"
      showgrid="false"
@@ -36661,13 +36661,6 @@
          width="24"
          id="rect17167"
          style="opacity:0;fill-opacity:1;stroke:none" />
-      <rect
-         y="60"
-         x="624"
-         height="24"
-         width="24"
-         id="rect18229"
-         style="opacity:0;fill-opacity:1;stroke:none" />
       <g
          transform="translate(-478,-116.00289)"
          style="display:inline;enable-background:new"
@@ -38057,6 +38050,13 @@
            d="m -184.84045,566.28442 7.03125,0"
            id="path41845-7"
            inkscape:connector-curvature="0" />
+        <rect
+           y="548.75317"
+           x="-193.3717"
+           height="24"
+           width="24"
+           id="rect17147-0-4-6"
+           style="opacity:0;fill-opacity:1;stroke:none;display:inline" />
       </g>
       <g
          id="U_1F627"
@@ -38171,6 +38171,13 @@
            d="m -144.84045,566.28443 7.03125,0"
            id="path41845-6"
            inkscape:connector-curvature="0" />
+        <rect
+           y="548.75317"
+           x="-153.3717"
+           height="24"
+           width="24"
+           id="rect17147-0-4-5"
+           style="opacity:0;fill-opacity:1;stroke:none;display:inline" />
       </g>
       <g
          id="U_1F628"
@@ -38359,6 +38366,13 @@
            id="path41595"
            d="m 453.5,905.5 c -2.41137,0 -4.4375,2.31542 -4.4375,5.28125 0,2.96583 2.02613,5.28125 4.4375,5.28125 2.41137,0 4.46875,-2.31913 4.46875,-5.28125 0,-2.96212 -2.05738,-5.28125 -4.46875,-5.28125 z"
            transform="matrix(1.6923767,0,0,1.4343085,-868.88939,-746.66303)" />
+        <rect
+           y="548.75317"
+           x="-113.3717"
+           height="24"
+           width="24"
+           id="rect17147-0-4-56"
+           style="opacity:0;fill-opacity:1;stroke:none;display:inline" />
       </g>
       <path
          style="color:#000000;fill:url(#radialGradient12021-4);fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.21632653"
@@ -38920,13 +38934,6 @@
       <rect
          style="opacity:0;fill-opacity:1;stroke:none"
          id="rect30207"
-         width="24"
-         height="24"
-         x="-124.90311"
-         y="679.3233" />
-      <rect
-         style="opacity:0;fill-opacity:1;stroke:none"
-         id="rect30209"
          width="24"
          height="24"
          x="-124.90311"
@@ -39520,13 +39527,6 @@
          height="24"
          width="24"
          id="rect17147-0-4"
-         style="opacity:0;fill-opacity:1;stroke:none" />
-      <rect
-         y="681.75757"
-         x="28.48843"
-         height="24"
-         width="24"
-         id="rect17340-6-08"
          style="opacity:0;fill-opacity:1;stroke:none" />
       <g
          style="display:inline"
@@ -40267,13 +40267,6 @@
          width="24"
          id="rect17147-0-4-7"
          style="opacity:0;fill-opacity:1;stroke:none" />
-      <rect
-         y="680.85449"
-         x="127.02037"
-         height="24"
-         width="24"
-         id="rect17340-6-08-3"
-         style="opacity:0;fill-opacity:1;stroke:none" />
       <g
          transform="matrix(0.99996978,0.00777458,-0.00777458,0.99996978,103.88653,-1.1773858)"
          id="g14179-9">
@@ -40850,11 +40843,11 @@
          y="0"
          xlink:href="#use12729"
          id="use17479-7"
-         transform="translate(-548.05952,670.68381)"
+         transform="translate(-546.05952,670.68381)"
          width="2000"
          height="1200" />
       <g
-         transform="matrix(1.2214055,0,0,1.2214055,-598.43805,665.1914)"
+         transform="matrix(1.2214055,0,0,1.2214055,-596.43805,665.1914)"
          id="g15116-9-4-1"
          style="display:inline">
         <path
@@ -40883,7 +40876,7 @@
       <g
          id="g16847-4"
          style="display:inline"
-         transform="translate(48.65551,3.5416401)">
+         transform="translate(50.65551,3.5416401)">
         <path
            inkscape:connector-curvature="0"
            style="opacity:0.54679805;fill:url(#radialGradient17388);fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;enable-background:new"
@@ -40898,7 +40891,7 @@
            style="fill:url(#radialGradient17390);fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline;enable-background:new" />
       </g>
       <g
-         transform="translate(0.03197855,2.5411106)"
+         transform="translate(2.0319785,2.5411106)"
          id="g17301">
         <g
            id="g17255"
@@ -40933,6 +40926,13 @@
              inkscape:connector-curvature="0" />
         </g>
       </g>
+      <rect
+         y="693.55713"
+         x="-138.33098"
+         height="24"
+         width="24"
+         id="rect17147-0-4-4"
+         style="opacity:0;fill-opacity:1;stroke:none;display:inline" />
     </g>
   </g>
   <g
